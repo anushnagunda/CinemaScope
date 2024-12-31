@@ -18,3 +18,20 @@ Technologies Behind CinemaScope
 **Backend:** The Movie Database (TMDB) API: Fetches movie posters dynamically.
 
 **Data Analysis and Machine Learning Model:** Python, numPy, Pickle, pandas
+
+How It Works
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**1. Data Collection:** The app retrieves movie data from The Movie Database (TMDB) API
+
+**2. Recommendation Generation:** Using Content and User based Collaborative filtering, the app generates movie recommendations tailored to each user's preferences.
+
+**3. Live Search:** The live search tool allows users to search for movies in real time, fetching results dynamically as they type.
+
+Sources:
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
+- https://www.youtube.com/watch?v=i-B_I2DGIAI
+
+https://365datascience.com/tutorials/how-to-build-recommendation-system-in-python/
