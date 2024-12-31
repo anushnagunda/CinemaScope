@@ -11,21 +11,10 @@ Welcome to CinemaScope, the go-to platform for finding your next favorite film! 
 
 **Immersive Design:** Styled with custom CSS to deliver a captivating cinema-inspired experience.
 
-Sources:
-  - Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
-  - https://www.youtube.com/watch?v=i-B_I2DGIAI
-**Programming Languages:**  C, C++, Java, JavaScript, Python, CSS, HTML  
-**Programming Frameworks:**  ReactJS, NodeJS, FastAPI  
-**Programming Databases:**  MySQL, MongoDB  
-**Programming Libraries:**  NumPy  
-**Programming Services:**  AWS, Git  
+Technologies Behind CinemaScope
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Frontend:** Built with Streamlit, enhanced by custom CSS styling for an immersive experience.
 
-**Languages (Real):**  English, Telugu  
-**Self Interests:**  Data Science, AI/ML, Cybersecurity  
-**Self Email:**  [gvsla.anu@gmail.com](mailto:gvsla.anu@gmail.com)  
+**Backend:** The Movie Database (TMDB) API: Fetches movie posters dynamically.
 
-**Profiles**  
-______
-
-- **LinkedIn:** [Anushna Gunda](https://www.linkedin.com/in/anushna-gunda)  
-- **Leetcode:** [Anushna Gunda](https://leetcode.com/u/Anushnag/)
+**Data Analysis and Machine Learning Model:** Python, numPy, Pickle, pandas
