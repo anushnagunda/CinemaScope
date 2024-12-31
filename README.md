@@ -1,7 +1,7 @@
 # CinemaScope
 Welcome to CinemaScope, the go-to platform for finding your next favorite film! This website uses complex recommendation algorithms to propose movies based on your choices. Whether you're a movie buff or just searching for a weekend watch, this tool makes it simple to discover a universe of cinematic possibilities.
 
-
+<img width="1119" alt="Screenshot 2024-12-31 112923" src="https://github.com/user-attachments/assets/27bf793d-895e-40be-b200-0f7fe7751bd2" />
 
 **Features**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
